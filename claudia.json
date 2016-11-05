@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "funnybot-executor",
+    "name": "funnybot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "vb0x7nrzkl",
+    "module": "bot"
+  }
+}

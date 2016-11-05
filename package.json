@@ -1,0 +1,15 @@
+{
+  "name": "funnybot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger bot for comedians.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "^2.4.0"
+  },
+  "devDependencies": {}
+}
